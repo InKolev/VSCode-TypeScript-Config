@@ -1,0 +1,9 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES5",
+        "watch": true,
+        "outFile": "app.js",
+        "inlineSourceMap": true
+    }
+}
